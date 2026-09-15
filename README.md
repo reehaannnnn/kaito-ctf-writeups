@@ -4,7 +4,6 @@
 **Tim:** Turu  
 **Event:** KAITO S CTF 2026
 
-Kumpulan write-up per kategori. Tiap soal solve memiliki berkas markdown sendiri; gambar berada di `assets/` tiap kategori.
 
 ## Daftar Isi
 
