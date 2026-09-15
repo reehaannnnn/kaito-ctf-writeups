@@ -8,17 +8,17 @@
 ## Daftar Isi
 
 ### Beginner
-- [4. Disguises](beginner/disguises.md)
+- [1. Disguises](beginner/disguises.md)
 - [2. kid1412](beginner/kid1412.md)
 - [3. Neko Haven VIP](beginner/neko-haven-vip.md)
-- [1. Welcome Flag](beginner/welcome-flag.md)
+- [4. Welcome Flag](beginner/welcome-flag.md)
 
 ### Stego
 - [1. Heist Notice](stego/heist-notice.md)
 
 ### Misc
-- [2. Freewill-Hard](misc/freewill-hard.md)
-- [1. Freewill](misc/freewill.md)
+- [1. Freewill-Hard](misc/freewill-hard.md)
+- [2. Freewill](misc/freewill.md)
 
 ### Reverse
 - [1. Berglas](reverse/berglas.md)
@@ -29,8 +29,8 @@
 - [2. Smoke Screen](forensics/smoke-screen.md)
 
 ### Web
-- [2. Fear Hole](web/fear-hole.md)
-- [1. TarSnap Archive](web/tarsnap-archive.md)
+- [1. Fear Hole](web/fear-hole.md)
+- [2. TarSnap Archive](web/tarsnap-archive.md)
 
 ### Crypto
 - [4. Crypt15](crypto/crypt15.md)
