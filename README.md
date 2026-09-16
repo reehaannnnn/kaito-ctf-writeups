@@ -33,7 +33,7 @@
 - [2. TarSnap Archive](web/tarsnap-archive.md)
 
 ### Crypto
-- [4. Crypt15](crypto/crypt15.md)
-- [1. He’s Not Findable](crypto/he-s-not-findable.md)
+- [1. Crypt15](crypto/crypt15.md)
+- [2. He’s Not Findable](crypto/he-s-not-findable.md)
 - [3. Project Teleprinter-52](crypto/project-teleprinter-52.md)
-- [2. The Omega Trigger](crypto/the-omega-trigger.md)
+- [4. The Omega Trigger](crypto/the-omega-trigger.md)
