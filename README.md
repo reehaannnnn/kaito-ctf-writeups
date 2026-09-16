@@ -2,7 +2,7 @@
 
 **Nama:** Rehan  
 **Tim:** Turu  
-**Event:** KAITO S CTF 2026
+**Event:** KAITO'S CTF 2026
 
 
 ## Daftar Isi
